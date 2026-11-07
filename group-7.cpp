@@ -3,9 +3,9 @@ using namespace std;
 
     int main() {
         cout << "Hello, group no 7!" << endl;
-        cout << "james gwapo." << endl;
-        cout << "jyrus gwapo." << endl;
-        cout << "christian gwapo." << endl;
-        cout << "jhian gwapo." << endl;
-        cout << "watapampam." << endl;
+        cout << "pa kiss yah." << endl;
+        cout << "bahog nawng pantat." << endl;
+        cout << "benhard awanon." << endl;
+        cout << "george pepot." << endl;
+        cout << "iyooookkkk love merylyn." << endl;
         return 0;    }

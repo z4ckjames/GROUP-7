@@ -9,3 +9,4 @@ using namespace std;
         cout << "jhian gwapo." << endl;
         cout << "watapampam." << endl;
         return 0;    }
+    w

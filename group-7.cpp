@@ -7,5 +7,5 @@ using namespace std;
         cout << "bahog nawng pantat." << endl;
         cout << "benhard awanon." << endl;
         cout << "george pepot." << endl;
-        cout << "iyooookkkk love merylyn." << endl;
+        cout << "iyooookkkk love meylyn." << endl;
         return 0;    }
